@@ -1,6 +1,6 @@
 # :wave: Welcome to WicodeZU
 
-![WicodeZU Logo](img/wicode_logo.png)
+![WicodeZU Logo](https://raw.githubusercontent.com/gekkowrld/images-storage-repository/175b3fb041da39bd977a8b9c99405b987f0e8c3d/wicode_logo.png)
 
 ## :memo: Who are we?
 
