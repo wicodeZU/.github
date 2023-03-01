@@ -33,7 +33,7 @@ Not a member and want to join? Then contact our moderators for information on ho
 
 ## I want to be a member what should I do
 
-Talk to our [moderators](#our-moderators) for your request. One of them will get to you as soon as they see your request. Beware that Github doesn't have a direct messaging feature, so you would have to look at ways to contact the moderators. You can navigate to their profile and see if they have a social media account or an email. If they don't they you may have to use [other ways](https://stackoverflow.com/questions/12686545/how-to-leave-a-message-for-a-github-com-user) of communication.  
+Talk to our [moderators](#our-moderators) for your request. One of them will get to you as soon as they see your request. Beware that Github doesn't have a direct messaging feature, so you would have to look at ways to contact the moderators. You can navigate to their profile and see if they have a social media account or an email. If they don't then you may have to use [other ways](https://stackoverflow.com/questions/12686545/how-to-leave-a-message-for-a-github-com-user) of communication.  
 Just be respectful in whatever you do. They have their own [personal life](https://en.wikipedia.org/wiki/Personal_life) to attend to.
 
 ## Nobody responded to my requests
