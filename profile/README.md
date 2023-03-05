@@ -1,7 +1,9 @@
 # :wave: Welcome to WicodeZU
 
-![WicodeZU Logo](https://raw.githubusercontent.com/gekkowrld/images-storage-repository/175b3fb041da39bd977a8b9c99405b987f0e8c3d/wicode_logo.png)
-_A blue stick figure that has posed like a ninja with a less than sign before and greater than sign after the figure. Its is used as the official WicodeZU club logo_
+![WicodeZU Logo](https://raw.githubusercontent.com/gekkowrld/misc/583bc7f7121a707b93a879b048d7756d987b72b1/images/wicode_logo.png)  
+
+_A blue stick figure that has posed like a ninja with a less than sign before and greater than sign after the figure.  
+Its is used as the official WicodeZU club logo_
 
 ## :memo: Who are we?
 
@@ -21,7 +23,7 @@ We are a team of developers that are or were students of [Zetech University](htt
 
 **Q**: I want to add a project so I can work with the community
 
-**A**: Ask the [moderators](#🤖-our-moderators for help in that.
+**A**: Ask the [moderators](#🤖-our-moderators) for help in that.
 
 ## :telescope: I want to be a member what should I do
 
