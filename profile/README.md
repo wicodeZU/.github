@@ -50,8 +50,3 @@ Congratulations on your journey. If you need any assistance you can contact the 
 The WicodeZu community is made of people with diverse set of skills, areas of expertise, experience and backgrounds. We encourage you to be treat the other members with utmost respect. Any form of discrimination will not be tolerated. Please refer to the [human rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) if you don't know what we mean or refer to the [kenyan constitution](http://kenyalaw.org/lex/actview.xql?actid=Const2010) if you are still not sure what is acceptable of you _(the [kenyan constitution](http://kenyalaw.org/lex/actview.xql?actid=Const2010) is used since it is where the community originates from. Please refer to your countries constitution for any legal way of interaction)_.  
 
 **Report any case of misconduct to the [moderators](#🤖-our-moderators). Appropriate action will be taken once the claim is proven to be true**
-
-***
-***
-_This article was written by Gordon. You can follow him on [@gekkowrld](https://twitter.com/gekkowrld) on twitter and collaborate with him on Github [@gekkowrld](https://github.com/gekkowrld).  
-**Big thanks to the whole WicodeZU community for being such an awesome community.**_
