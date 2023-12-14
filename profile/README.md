@@ -34,9 +34,6 @@ Just be respectful in whatever you do. They have their own [personal life](https
 
 As said earlier the moderators have a personal life. Be patient and they'll get back to you. If nobody gets back to you within a reasonably amount of time then you can try opening an issue and tagging them. Learn to use the [art of patience](https://time.com/6095843/learning-patience/) while waiting, sometimes its good to [do nothing](https://time.com/45995/want-to-succeed-you-should-seriously-consider-do-nothing/)!
 
-_Alternatively you can reach out to me on [twitter](https://twitter.com/gekkowrld) or open an issue on the [-gekkowrld](https://github.com/gekkowrld/-gekkowrld) repository_  
-_Please note that I'm not a moderator so I might not be able to help you with some issues_
-
 ## :dollar: I want to support you financially
 
 You can use [Github sponsors](https://github.com/sponsors) to sponsor your favourite developer. If you can't use github sponsor for some reasons, please contact the developer you want to support directly so that they can tell you another way if available.
